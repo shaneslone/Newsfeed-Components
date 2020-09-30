@@ -87,6 +87,15 @@ const data = [
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`,
   },
+  {
+    title: "Shane Slone's Test Article",
+    date: 'Sep 30th, 2020',
+    firstParagraph: `This is a test. `,
+
+    secondParagraph: `Testing Testing Testing Testing Testing Testing Testing Testing Testing`,
+
+    thirdParagraph: `Text here Text here Text here Text here Text here Text here Text here Text here Text here Text here `,
+  },
 ];
 
 /*
